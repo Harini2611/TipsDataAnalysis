@@ -1,0 +1,33 @@
+Analysis 1:
+	
+‣Larger parties (i.e. groups of diners) tend to have higher total bills and give larger tips than smaller parties.	
+‣There is a positive correlation between total bill and tip amount, as expected.
+
+Analysis 2:
+
+‣The distributions of tips for males and females seem to be fairly similar, with some small differences.	
+‣Overall, it appears that tips tend to be clustered around certain amounts (e.g. $2-4, $4-6), with fewer tips at higher or lower amounts.
+
+Analysis 3:
+
+‣The average tip amount seems to be highest on Saturdays and lowest on Sundays, although the differences are relatively small.	
+‣There is some variability in the average tip amount on different days of the week, but the differences may not be statistically significant.
+
+Analysis 4:
+	
+‣The correlation between total bill and tip amount is fairly strong (0.68), indicating that people generally tip more when they spend more money at the restaurant.	
+‣However, it's worth noting that correlation does not necessarily imply causation, and there could be other factors that influence the size of the tip.
+
+Analysis 5:
+	
+‣As expected, the average tip tends to increase as the size of the table (i.e. number of diners) increases.	
+‣However, there is some variability in the average tip for different table sizes, and it's possible that this could be due to other factors (e.g. the type of restaurant, the quality of service).
+
+Analysis 6:
+	
+‣Smokers and non-smokers appear to give similar tip amounts overall.	
+‣However, there are some outliers where smokers gave very large tips or very small tips, whereas non-smokers tended to give tips in the mid-range.
+‣It's unclear whether this difference is due to smoking status per se, or to other factors that might be associated with smoking (e.g. age, income, etc.).
+
+
+
